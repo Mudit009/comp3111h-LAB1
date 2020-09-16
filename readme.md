@@ -4,7 +4,7 @@ STUDENT ID: 12345678
 
 
 
-![alt text](https://github.com/Mudit009/comp3111h-LAB1/blob/master/COMP3111H-LAB1_HISTORY.png?raw=true "Screenshot of History of Commits")
+![alt text](https://github.com/Mudit009/comp3111h-LAB1/raw/master/COMP3111H-LAB1_HISTORY.png?raw=true "Screenshot of History of Commits")
 
 
 
